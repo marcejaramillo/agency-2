@@ -1,0 +1,13 @@
+.titulo {
+    background: rgba(51, 153, 184, 0.527);
+    padding: 1em;
+}
+
+.titulodos {
+    background: rgba(51, 153, 184, 0.425);
+    padding: 1em;
+}
+
+.logo {
+    size: 100%;
+}
